@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm dyxvill</h1>
-<h3 align="center">A programmer from Russia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dyxvill&label=Profile%20views&color=0e75b6&style=flat" alt="dyxvill" /> </p>
 
