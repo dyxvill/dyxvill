@@ -9,6 +9,9 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=dyxvill&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dyxvill&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+[
+](https://github.com/DenverCoder1/github-readme-streak-stats.git)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dyxvill&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
